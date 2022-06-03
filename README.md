@@ -18,3 +18,5 @@ This function should return the exact same results as get_every_fifth, our contr
  - get_every_student: This function is much simpler to understand. Sum all of the elements in the matrix and return the result. The only difficult part is, you have to do it quickly.
 
 **I only edited matrix_funcs_student, the other one is the function it's comparing itself to**
+
+***I included all my .txt files with the outputs of the speed ratios just for sake of simplicity***
